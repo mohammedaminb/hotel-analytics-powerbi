@@ -1,3 +1,6 @@
+
+
+<img width="1082" height="616" alt="Capture d&#39;écran 2026-08-26 160042" src="https://github.com/user-attachments/assets/df216b1e-d90c-4298-be12-e893469a70cc" />
 # 🏨 Bodrum Azure Coast Hotel — Analytics & Revenue Dashboard
 
 An end-to-end Power BI analytics solution designed for hotel operations and revenue managers. This interactive 3-page dashboard transforms raw booking, room, and guest operational data into actionable business intelligence to optimize room yields, track booking channels, and profile guest demographics.
@@ -195,13 +198,11 @@ hotel-analytics-dashboard/
 ├── README.md
 ├── hotel_end_to_end.pbix
 ├── data/
-│   └── (source data files)
+│   └── (csv files)
 └── images/
-    ├── 
-    ├── 
-    └── <img width="1177" height="658" alt="Capture d&#39;écran 2026-08-26 232859" src="https://github.com/user-attachments/assets/fccebb46-c43e-4a32-b3ef-8c2583233d89" />
-<img width="1082" height="616" alt="Capture d&#39;écran 2026-08-26 160042" src="https://github.com/user-attachments/assets/e772ddbb-52de-4750-a899-e9100b64188e" />
-<img width="1095" height="616" alt="Capture d&#39;écran 2026-08-26 160200" src="https://github.com/user-attachments/assets/67a993f0-a009-4275-9207-b396300b52d5" />
+    ├── page1.png
+    ├── Page2.png
+    └── page3.png
 
 ```
 
