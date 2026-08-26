@@ -1,0 +1,8 @@
+﻿promotion_id,promotion_name,promotion_type,discount_rate,valid_period
+P000,No Promotion,,0.0,All year
+P001,Early Bird,Early booking,0.12,Jan-May
+P002,Summer Sale,Seasonal,0.1,Jun-Sep
+P003,Long Stay,Length of stay,0.15,All year
+P004,Last Minute,Last minute,0.08,All year
+P005,Family Offer,Family,0.12,Jun-Sep
+P006,Direct Booking,Direct channel,0.07,All year

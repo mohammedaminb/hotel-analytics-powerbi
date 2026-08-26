@@ -1,0 +1,7 @@
+﻿room_type_id,room_type_name,category,view_type,base_capacity,max_occupancy,base_price_try
+RT01,Standard Room,Standard,Sea/land view,2,3,3200
+RT02,Deluxe Sea View,Deluxe,Sea view,2,3,4300
+RT03,Superior Room,Superior,Sea view,2,3,5100
+RT04,Family Room,Family,Garden/partial sea view,2,4,6200
+RT05,Junior Suite,Suite,Sea view,2,3,7600
+RT06,Family Suite,Suite,Sea view,2,5,9200
